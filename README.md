@@ -8,5 +8,5 @@
 * <b>SV_normal.csv:</b> Example CSV file exported from the SV_Normal_Traffic.cap
 * <b>plot_sv.py:</b> Python SV plot example. 
 * <b> GOOSE.pcap: </b> GOOSE (Generic Object Oriented Substation Event) protocol capture. GOOSE operates through a publisher-subscriber mechanism using multicast or broadcast MAC addresses.
-*<b> MMS.cap: </b> MMS (Manufacturing Message Specification) protocol capture.  It uses a client/server-based communication method. MMS adheres to the Open System Interconnection (OSI) model and is defined in ISO 9506.   
+* <b> MMS.cap: </b> MMS (Manufacturing Message Specification) protocol capture.  It uses a client/server-based communication method. MMS adheres to the Open System Interconnection (OSI) model and is defined in ISO 9506.   
 
